@@ -1,0 +1,8 @@
+absolute url for user detail for web
+
+ability to add UserSchool from someones profile must be prohibited
+
+anonymous users must be prohibited from accessing friend_request and suggested friends
+
+suggested friends view is not working for current user's own profile
+users must be prohibited from accessing others friend suggestion
